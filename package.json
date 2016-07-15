@@ -1,0 +1,21 @@
+{
+  "name": "hello-passport",
+  "version": "0.1.0",
+  "description": "Pruebas con passport",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesumarquez/hello-passport.git"
+  },
+  "keywords": [
+    "nodejs",
+    "passport",
+    "authentication"
+  ],
+  "author": "jesumarquez@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesumarquez/hello-passport/issues"
+  },
+  "homepage": "https://github.com/jesumarquez/hello-passport#readme"
+}
