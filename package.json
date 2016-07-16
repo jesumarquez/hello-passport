@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/jesumarquez/hello-passport.git"
   },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "keywords": [
     "nodejs",
     "passport",
@@ -20,6 +23,12 @@
   "homepage": "https://github.com/jesumarquez/hello-passport#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
   }
 }
